@@ -1,0 +1,23 @@
+{
+  "name": "rnn-comp",
+  "version": "1.0.0",
+  "description": "RNN Compression",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rnn",
+    "compression",
+    "typescript"
+  ],
+  "author": "Haikal Handamara",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.13.2",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12"
+  }
+}
